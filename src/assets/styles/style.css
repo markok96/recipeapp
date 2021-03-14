@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+:root {
+  --orange-yellow-crayola: #f4d06fff;
+  --floral-white: #fff8f0ff;
+  --gunmetal: #22333bff;
+  --cultured: #f2f4f3ff;
+}
